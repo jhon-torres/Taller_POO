@@ -2,7 +2,6 @@
 Trabajo en clase
 
 # Integrantes
-
 ## Felipe Pazmiño
 ## Jhon Torres
 ## Camila Mier
