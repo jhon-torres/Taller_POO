@@ -22,5 +22,17 @@ public class EnteroLong {
     public void setVar_long(long var_long) {
         this.var_long = var_long;
     }
+
+    public void ConvertirEnteroLong (short var_long){
+        this.var_long = (short)var_entero ;
+    }
+
+    @Override
+    public String toString() {
+
+        return  "Pasar de entero a long: "+
+                "Valor de byte: "+var_entero+"\n"+
+                "Valor de short: "+var_long;
+    }
 }
 
